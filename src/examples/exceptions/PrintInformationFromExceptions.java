@@ -1,4 +1,4 @@
-package exmpales.exceptions;
+package examples.exceptions;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package exmpales.exceptions.our_exceptions;
+package examples.exceptions.our_exceptions;
 
 public class OurException extends RuntimeException {
 	private static final String DEFAULT_MESSAGE = "Default message of our exception";

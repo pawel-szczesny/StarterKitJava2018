@@ -1,6 +1,6 @@
-package exmpales.exceptions;
+package examples.exceptions;
 
-import exmpales.exceptions.our_exceptions.OurException;
+import examples.exceptions.our_exceptions.OurException;
 
 public class BestPracticesOfExceptions {
 	public static void main(String[] args) {
