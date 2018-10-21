@@ -1,4 +1,4 @@
-package working_with_strings;
+package examples.working_with_strings;
 
 public class StringBuilderVsStringBuffer {
 	public static void main(String[] args) {

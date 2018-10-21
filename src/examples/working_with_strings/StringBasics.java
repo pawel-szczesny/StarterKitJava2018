@@ -1,4 +1,4 @@
-package working_with_strings;
+package examples.working_with_strings;
 
 public class StringBasics {
 	private final static String SOME_EXAMPLE_STRING = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
