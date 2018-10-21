@@ -1,0 +1,13 @@
+1. Klasa Exercise2_1 zawiera konstrukcje for. Kroki do zrobienia:
+	a. Uruchomić tryb debug
+	b. Postawić breakpointa na linii 10 i 12 
+	c. Strat debuggowania - po kolei śledzić co dzieje się w programie (W Variables)
+2. W Klasie Exercise2_1:
+	a. Ustawić conditional breakpointa na linii 10. Chcemy sprawdzać tylko i>5. 
+	b. Przetestować jak działa conditional breakpoint
+3. Klasa Exercise2_2 zawiera metode do usuwania 0 z początku Stringa. Kroki do zrobienia:
+	a. Postawić breakpointa na linii 11.
+	b. Start debuggowania.  Użycie 'Step Into'
+	c. Następnie krok po kroku sprawdzać co się dzieje w programie. Zapisać kroki w formie komentarzy lub/i wyświetlić na standardowym wyjściu
+4. W klasie Exercise2_2 przetestować własny przypadek (np. dla „001234100”)
+5. *W klasie Exercise2_3 znajduje się metoda do wyznaczania liczb pierwszych. Spróbuj ją zrozumieć przy wykorzystaniu trybu debug*
