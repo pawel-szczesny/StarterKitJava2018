@@ -3,15 +3,12 @@ package examples.clean_code;
 public class ExamplesCleanCode {
 
 	public static void main(String[] args) {
-		
-
 		// WRONG Approches
 		
 		// 1. Commented lines of code
 		// example:
 		
 		// driver.click()
-		
 	}
 	
 	public void someMethod(String firstArgument, String second, String nextArgument, int someInt) {
@@ -34,4 +31,9 @@ public class ExamplesCleanCode {
 		return "a".equals("a");
 	}
 	
+	public void someMethod() {
+		// It's good to have variable on the first lines in this scope
+		int as = 1;
+		int sdf = 13;
+	}
 }
