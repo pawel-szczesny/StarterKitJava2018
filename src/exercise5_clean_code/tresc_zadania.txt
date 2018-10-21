@@ -1,0 +1,5 @@
+Zrefaktoruj kod w klasie exercise5_1. Zwróć uwagę na: 
+	1. Nazewnictwo 
+	2. Czy metoda nie robi za dużo/ czy nie ma za dużo parametrów
+	3. Formatowanie tekstu
+	
