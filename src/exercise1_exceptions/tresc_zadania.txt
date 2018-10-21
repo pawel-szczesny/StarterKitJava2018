@@ -1,0 +1,18 @@
+1. Klasa Exercise1_1 zawiera 3 metody które wyrzucają wyjątek. Kroki do sprawdzenia:
+	a. Uruchomić program, sprawdzić jaki wyjątek rzuca pierwsza metoda
+	b. Użyć obsługi wyjątków (try catch) dla pierwszej metody. W catch wyświetlić to co zwraca metoda e.getMessage().
+	c. Uruchomić program, sprawdzić jaki wyjątek rzuca druga metoda
+	d. Użyć obsługi wyjątków (try catch) dla drugiej metody. W catch wyświetlić to co zwraca metoda e.printStackTrace().
+
+2. Klasa Exercise1_2 zawiera 1 metodę która wyrzuca losowy wyjątek. Kroki do sprawdzenia:
+	a. Uruchomić program, sprawdzić jakie wyjąteki rzuca metoda
+	b. Użyć obsługi wyjątków przy użyciu wielu sekcji catch w jednym bloku. W obu catch-ach wyświelić e.getMessage()
+	c. Użyć finally w którym wyświetlić wiadomość – „Blok finally wykona się zawsze” 
+
+3. Klasa Exercise1_3 – zawiera checked Exception (operacje na pliku – utworzenie i zapisanie)
+	a. Spróbować uruchomić program
+	b. Użyć obsługi wyjątków (try catch) dla tworzenia pliku. W catch wyświetlić komunikat – „Nie udało się utworzyć pliku” + e.getMessage.
+	c. Uruchomić program, sprawdzić jaki wyjątek rzuca druga metoda
+	d. Użyć obsługi wyjątków (try catch finally) dla zapisu do pliku. W catch wyświetlić komunikat – „Nie udało się zapisać dane do pliku” + e.getMessage. W bloku finally writer.close(). 
+
+4. Stwórz swój własny wyjatek
