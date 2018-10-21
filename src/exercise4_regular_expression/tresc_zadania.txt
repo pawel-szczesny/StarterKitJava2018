@@ -1,0 +1,11 @@
+1.	Utwórz wyrażenie regularne dla:
+	i.	LICZBA.MALA_LITERA
+	ii.	DUŻA_LITERA0001MALA_LITERA
+	iii.	6DUŻYCH_LITER:2LICZBY
+	iv.	1LUB_WIECEJ_CYFR;4LITERY
+	v. Data w formacie - 21/10/2018T22:56Z
+	
+2.	Przetestuj je na 3 sposoby
+	i.	Używając klas Pattern, Matcher
+	ii.	Używając metody matches dla Stringa
+	iii. Na stronie https://regexr.com/
